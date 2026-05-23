@@ -9,11 +9,11 @@
 <img src="https://github.com/ramonads42.png" alt="Foto de Ramon Amorim da Silva" width="180">
 </div>
 
-Olá! Sou Ramon Amorim da Silva Tenho 26 anos e sou aluno da **Fatec Prof. Jessen Vidal**, estou cursando **Análise e Desenvolvimento de Sistemas** (5º Semestre). 
+Olá! Sou **Ramon Amorim da Silva**. Tenho 26 anos e sou aluno da **Fatec Prof. Jessen Vidal**, onde estou cursando **Análise e Desenvolvimento de Sistemas** (5º Semestre). Antes de ingressar na instituição, concluí o Ensino Médio no **Colégio Educare**. 
 
-Escolhi a **Fatec** porque para mim na região de São José dos Campos, é a melhor opção para me preparar para o mercado de trabalho.
+Escolhi a **Fatec** porque a considero a melhor opção na região de São José dos Campos para obter uma formação sólida e me preparar para o mercado de trabalho.
 
-Entre 2020 e 2023, atuei como **Suporte Técnico**, onde desenvolvi habilidades práticas em manutenção de sistemas, hardware e atendimento ao cliente. Atualmente não atuo na área do curso e estou em busca de oportunidades de estágio.
+Entre 2020 e 2023, atuei como **Suporte Técnico**, desenvolvendo habilidades práticas em manutenção de sistemas, hardware e atendimento ao cliente. Atualmente, não atuo na área do curso e estou em busca de oportunidades de **Estágio**.
 
 ---
 
