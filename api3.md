@@ -13,6 +13,8 @@
 
 **O Problema:** Economistas e gestores públicos enfrentam grandes dificuldades para analisar o desempenho comercial dos estados brasileiros devido à dispersão dos dados abertos federais. A ausência de uma interface centralizada obriga esses profissionais a realizarem coletas manuais e tratamentos complexos de planilhas, o que consome tempo excessivo e aumenta o risco de inconsistências na análise de tendências de exportação e importação.
 
+**O Problema:** Economistas e gestores públicos enfrentam sérias dificuldades para monitorar o desempenho comercial brasileiro diante de mudanças geopolíticas abruptas, como as **tarifas impostas pelo Governo Trump** às commodities e produtos manufaturados. A dispersão dos dados abertos federais e a ausência de uma interface centralizada impedem a análise ágil de como essas taxações americanas repercutem no **Comércio Exterior** dos estados e municípios. Sem ferramentas adequadas, diagnosticar quais setores regionais sofreram retaliação ou ganharam vantagem competitiva exige coletas manuais e tratamentos complexos de planilhas, gerando atrasos e inconsistências em momentos que demandam tomadas de decisão estratégicas rápidas.
+
 **A Solução:** Desenvolvemos a AdaTrade, uma plataforma web analítica que automatiza a visualização de dados do Ministério do Desenvolvimento, Indústria e Comércio. O sistema oferece dashboards interativos, mapas de calor e filtros avançados por código NCM, permitindo que o usuário identifique rapidamente municípios em ascensão ou declínio econômico. A aplicação foi construída em formato SPA (Single Page Application) para garantir agilidade e uma experiência de usuário fluida.
 
 ---
